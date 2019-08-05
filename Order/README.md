@@ -1,5 +1,3 @@
-# ice-commodity-management-admin
-
 ## 使用
 
 - 启动调试服务: `npm start`
@@ -16,11 +14,4 @@
 - 通用组件: `src/components`
 - 页面文件: `src/pages`
 
-## 主题配置
 
-- 默认主题：@icedesign/theme
-- 可选主题：@alifd/theme-1
-
-## 效果图
-
-![screenshot](https://img.alicdn.com/tfs/TB1cmQaCZbpK1RjSZFyXXX_qFXa-2872-1580.png)
